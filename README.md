@@ -1,5 +1,7 @@
 # wladcy_polski
 
+Podaj następnego władcę.
+
 Komendy:
 [quit] - wyjście
 [range] - zakres władców
