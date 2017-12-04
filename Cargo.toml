@@ -1,0 +1,7 @@
+[package]
+name = "wladcy_polski"
+version = "0.1.0"
+authors = ["Mr. L"]
+
+[dependencies]
+rand = "0.3"
